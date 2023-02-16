@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  
-  <h3><b>README that is helpful for understanding the flow of the application </b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -77,6 +70,17 @@ and the main information by considering the mobile first as view port
 
 - GitHub: https://github.com/murthy2609
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Adding Works done by me in the portfolio]**
+- [ ] **[About Myself ]**
+- [ ] **[My Skills]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
