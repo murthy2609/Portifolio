@@ -68,11 +68,6 @@ and the main information by considering the mobile first as view port
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -81,11 +76,6 @@ and the main information by considering the mobile first as view port
 👤 **Surya**
 
 - GitHub: https://github.com/murthy2609
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
