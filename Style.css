@@ -2,11 +2,13 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
 }
+
 .top-bar {
   display: flex;
   width: 100%;
@@ -15,6 +17,7 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+
 .logoname {
   width: 100px;
   height: 20px;
@@ -30,14 +33,17 @@ body {
   text-align: center;
   color: #6070ff;
 }
+
 img {
   margin-right: 20px;
 }
+
 .section-data {
   background-image: url("./images/background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .myname {
   width: 327px;
   height: 150px;
@@ -50,6 +56,7 @@ img {
   display: flex;
   align-items: center;
 }
+
 .namedetail {
   width: 327px;
   height: 146px;
@@ -63,6 +70,7 @@ img {
   margin-left: 20px;
   margin-right: 20px;
 }
+
 .connect {
   width: 117px;
   height: 24px;
@@ -74,6 +82,7 @@ img {
   margin-left: 20px;
   color: #7f8cff;
 }
+
 .twitter {
   position: absolute;
   left: 6.4%;
@@ -82,6 +91,7 @@ img {
   bottom: 18.88%;
   margin-top: 30px;
 }
+
 .dot {
   position: absolute;
   left: 16.8%;
@@ -91,6 +101,7 @@ img {
 
   margin-top: 30px;
 }
+
 .i {
   position: absolute;
   left: 16.8%;
@@ -99,6 +110,7 @@ img {
   bottom: 18.87%;
   margin-top: 30px;
 }
+
 .n {
   position: absolute;
   left: 20%;
@@ -107,6 +119,7 @@ img {
   bottom: 18.87%;
   margin-top: 30px;
 }
+
 .m {
   position: absolute;
   left: 27.47%;
@@ -115,6 +128,7 @@ img {
   bottom: 19.21%;
   margin-top: 30px;
 }
+
 .g {
   position: absolute;
   left: 38.13%;
@@ -123,6 +137,7 @@ img {
   bottom: 18.87%;
   margin-top: 30px;
 }
+
 .v {
   position: absolute;
   left: 48%;
