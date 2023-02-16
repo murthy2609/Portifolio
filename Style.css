@@ -18,7 +18,8 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-#logolink{
+
+#logolink {
   text-decoration: none;
 }
 
@@ -84,15 +85,16 @@ img {
   margin-left: 20px;
   color: #7f8cff;
 }
+
 .twitter {
   position: absolute;
   left: 6.4%;
   right: 88.27%;
   top: 77.81%;
   bottom: 18.88%;
- }
-ul{
-    list-style-type: none;
+}
+ul {
+  list-style-type: none;
 }
 
 .dot {
@@ -101,7 +103,7 @@ ul{
   right: 81.87%;
   top: 77.81%;
   bottom: 21.36%;
- }
+}
 
 .i {
   position: absolute;
@@ -109,7 +111,7 @@ ul{
   right: 81.87%;
   top: 78.85%;
   bottom: 18.87%;
- }
+}
 
 .n {
   position: absolute;
@@ -117,7 +119,7 @@ ul{
   right: 77.87%;
   top: 78.32%;
   bottom: 18.87%;
- }
+}
 
 .m {
   position: absolute;
@@ -125,7 +127,7 @@ ul{
   right: 67.2%;
   top: 78.15%;
   bottom: 19.21%;
- }
+}
 
 .g {
   position: absolute;
@@ -133,7 +135,7 @@ ul{
   right: 57.07%;
   top: 77.81%;
   bottom: 18.87%;
- }
+}
 
 .v {
   position: absolute;
@@ -141,4 +143,4 @@ ul{
   right: 48.22%;
   top: 77.81%;
   bottom: 18.87%;
- }
+}
