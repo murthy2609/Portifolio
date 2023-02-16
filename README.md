@@ -3,7 +3,7 @@
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   
-  <h3><b>README that is helpful for understanding the flow of the </b></h3>
+  <h3><b>README that is helpful for understanding the flow of the application </b></h3>
 
 </div>
 
@@ -25,11 +25,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Portfolio <a name="about-project"></a>
 
-> This project is a simple Hello World project having an html and css file
+> This project used to creater a portfolio that can showcase our skills to the customers
 
-**Hello Microverse** is a small project that helped me to understand the project creation
+**Portfolio** is a project that is developed in step wise. In first step i developer a logo 
+and the main information by considering the mobile first as view port
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,9 +53,16 @@
 
 
 
-<!-- Features -->
+<<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
+
+
+- **Mobile specific Portfolio application**
+- **Logo with the Nagivation Icon**
+- **Name with the description of the work**
+- **Social media connections**
 
 
 
@@ -115,13 +123,13 @@ I would like to thank Microverse for letting know how to create README file
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
-- **What is the purpose of HTML**
+- **What is the purpose of having portifolio site**
 
-  - HTML is used to create static page
+  - Portfolio site should be responsive and used to showcase our talent
 
-- **What is the purpose of CSS**
+- **What technologies are used to develop this portfolio site**
 
-  - CSS is used to style the static page
+  - HTML and CSS Flex technologies are used to develop this portfolio site.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
