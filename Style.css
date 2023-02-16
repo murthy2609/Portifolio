@@ -23,7 +23,7 @@ body {
   height: 20px;
   margin-left: 20px;
 
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -48,7 +48,7 @@ img {
   width: 327px;
   height: 150px;
   margin-left: 20px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -60,7 +60,7 @@ img {
 .namedetail {
   width: 327px;
   height: 146px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -74,7 +74,7 @@ img {
 .connect {
   width: 117px;
   height: 24px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -98,7 +98,6 @@ img {
   right: 81.87%;
   top: 77.81%;
   bottom: 21.36%;
-
   margin-top: 30px;
 }
 
