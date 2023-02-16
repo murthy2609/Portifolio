@@ -53,7 +53,7 @@ and the main information by considering the mobile first as view port
 
 
 
-<<!-- Features -->
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -114,7 +114,7 @@ If you like this project please let me know at @
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse for letting know how to create README file
+I would like to thank Microverse for helping me to create a portfolio and structuring the flow of the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
