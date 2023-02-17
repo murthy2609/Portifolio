@@ -78,7 +78,7 @@ and the main information by considering the mobile first as view port
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Adding Works done by me in the portfolio]**
+- [ ] **[Adding Works done by me in the portfolio that tell my experience]**
 - [ ] **[About Myself ]**
 - [ ] **[My Skills]**
 
