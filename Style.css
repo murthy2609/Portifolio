@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap");
 
 * {
   box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  font-family: 'poppins', sans-serif;
+  font-family: "poppins", sans-serif;
 }
 
 a {
@@ -58,7 +58,7 @@ li {
 }
 
 .myname {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -70,7 +70,7 @@ li {
 }
 
 .namedetail {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -78,10 +78,10 @@ li {
   color: #344563;
   margin-right: 10px;
   background: none;
-  }
+}
 
 .connect {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
