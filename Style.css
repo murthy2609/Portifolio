@@ -99,7 +99,7 @@ li {
   margin-left: -40px;
 }
 
-.experience{
+.experience {
   background: #e5e5e5;
   display: flex;
   flex-direction: column;
@@ -107,43 +107,43 @@ li {
   padding-top: 10%;
 }
 
-.proj1{
+.proj1 {
   background-image: url("./images/snapshot.png");
   background-repeat: no-repeat;
   background-position-x: calc(50%);
   background-size: 92%;
   background-position-y: 5%;
 }
-.proj2{
+.proj2 {
   background-image: url("./images/snapshot1.png");
   background-repeat: no-repeat;
   background-position-x: calc(50%);
   background-size: 92%;
   background-position-y: 5%;
 }
-.proj3{
+.proj3 {
   background-image: url("./images/snapshot2.png");
   background-repeat: no-repeat;
   background-position-x: calc(50%);
   background-size: 92%;
   background-position-y: 5%;
 }
-.proj4{
+.proj4 {
   background-image: url("./images/snapshot3.png");
   background-repeat: no-repeat;
   background-position-x: calc(50%);
   background-size: 92%;
   background-position-y: 5%;
 }
-.cpny{
-  display:inline;
+.cpny {
+  display: inline;
   margin-left: 24px;
 }
 .proj-content-space {
   padding-top: 70%;
 }
 .proj-title {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -152,9 +152,9 @@ li {
   margin-left: 40px;
   margin-bottom: 20px;
 }
-.proj-desc{
+.proj-desc {
   margin-left: 30px;
-  margin-top:2%;
+  margin-top: 2%;
 }
 
 .softwares {
@@ -165,7 +165,7 @@ li {
 }
 
 .software {
-  font-family: 'Poppins'sans-serif;
+  font-family: "Poppins" sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -179,7 +179,7 @@ li {
 .btn {
   width: 140px;
   height: 52px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -199,7 +199,7 @@ li {
 }
 
 .name {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -210,13 +210,13 @@ li {
   padding-left: 0;
   margin-left: 24px;
 }
-.text{
+.text {
   margin-left: 24px;
 }
 .resume {
   width: 160px;
   height: 52px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -240,8 +240,8 @@ li {
   margin-top: -12px;
   box-shadow: 0 1px #dfe1e6;
 }
-.displaytype{
-  display:inline;
+.displaytype {
+  display: inline;
 }
 .tab-title {
   color: #000;
@@ -251,7 +251,7 @@ li {
   font-style: normal;
 }
 .right-arrow {
-   margin-left: 170px;
+  margin-left: 170px;
 }
 
 .frame {
